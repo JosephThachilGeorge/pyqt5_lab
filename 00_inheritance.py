@@ -24,6 +24,4 @@ class D(A):                     # Make sure to call super constructor.
 # 1. Run this script in an IPython shell. Instantiate one of each
 # defined class and observe the messages printed.
 #
-# 2. Do any of these surprise you? Can you explain the behavior of
-# each constructor?
 #

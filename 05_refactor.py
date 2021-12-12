@@ -13,7 +13,7 @@ if __name__ == '__main__':
     app.exec_()
 
 #
-# Laboratory exercises:
+# exercises:
 #
 # 1. In this exercise you should implement a simple application that
 # displays one or more buttons with the text "Clicks: N", where 'N' is
